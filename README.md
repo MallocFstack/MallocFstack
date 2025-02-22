@@ -3,7 +3,7 @@ A Senior High, really that normal. Like knew for even like nothing...
 Still learning and for a lot of plans here for future.
 Fight 4ever dreams about those stuffs, 'cause pretty awsome, isn't it?
 
-Graduation Plan (Not Really) (like fool huh?)
+Graduation Plan (Not Really) (like fool huh?) i'll buy ONE NOTE to note that deal, dude
 
 1. Start updating projects on GitHub, daily engineering stuff, and possibly set up a new EC2 host server. Get an AWS account with superpowers.
 2. Learn FL Studio for EDM production. Attend an EDM event if possible, bring classmates/friends (no parents, I need to buy albums!!!! tcs/ptrbs).
