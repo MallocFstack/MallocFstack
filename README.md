@@ -1,149 +1,209 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:00f0ff&height=280&section=header&text=MIA_Ether&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Anime%20Developer%20%7C%20AI%20Explorer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,30:240046,70:7209b7,100:c77dff&height=260&section=header&text=MIA_Ether&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Anime%20Developer%20%7C%20AI%20Explorer&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=800&lines=System.init(%22MIA_Ether.exe%22);AI+Core%3A+Online+%E2%9C%93;Exploring+the+boundaries+of+code...;Welcome+to+the+Cyber+Space+%E2%9C%A8">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&width=800&lines=Initializing+MIA_Ether.exe...;AI+Core+Online+%E2%9C%93;Cyber+Space+Connected;Hello+World+%F0%9F%91%8B">
 
 <br><br>
 
-<img src="https://api.gifyu.com/images/cyber-anime-coding.gif" onerror="this.onerror=null;this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V2a3FjdXpxbXRxOHZ6ZDJ6b3V0YWYxeWNxeTcyM3RjdWh3OWJpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfZmFtaWx5JmN0PWc/d31vTp0VIb99t69y/giphy.gif'" width="600" style="border-radius: 8px; border: 2px solid #7928ca; box-shadow: 0 0 20px #00f0ff;">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="480">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MIA-Ether&label=SYSTEM+ACCESSES&color=00f0ff&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=MIA-Ether&label=CYBER+VISITORS&color=8A2BE2&style=for-the-badge">
+
+</div>
+
+
+---
+
+# 🦊 MIA_Ether.exe
+
+
+<img align="right" width="220" src="https://raw.githubusercontent.com/innng/sozo/main/assets/character.gif">
+
+
+```yaml
+Name:
+  MIA_Ether
+
+Identity:
+  - Developer
+  - AI Explorer
+  - Digital Creator
+
+System:
+  AI Core: ONLINE
+  Creativity: 100%
+  Curiosity: ∞
+
+Mission:
+  Build interesting things with code
+````
+
+Hi, I'm **MIA_Ether**.
+
+A young developer exploring the intersection between:
+
+```text
+🤖 Artificial Intelligence
+
+💻 Programming
+
+🔐 Cyber Security
+
+🎨 Digital Creation
+
+🎵 Electronic Music
+
+🌌 Anime Culture
+```
+
+I believe:
+
+> Code is not only a tool.
+> Code is a way to transform imagination into reality.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MIA-Ether">
+<img src="https://img.shields.io/badge/GitHub-MIA_Ether-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://space.bilibili.com/451863946">
+<img src="https://img.shields.io/badge/Bilibili-MIA_Ether-00A1D6?style=for-the-badge&logo=bilibili">
+</a>
+
+<a href="https://music.163.com/#/user/home?id=13872715631">
+<img src="https://img.shields.io/badge/NetEase_Music-MIA_Ether-C20C0C?style=for-the-badge&logo=neteasecloudmusic">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
 
 </div>
 
 ---
 
-# 🦊 MIA_Ether.sys
+# 🕶 Cyber Terminal
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/innng/sozo/main/assets/character.gif" style="border-radius: 50%;">
+```bash
+$ whoami
 
-```yaml
-[SYSTEM INFO]
-User      : MIA_Ether
-Class     : Cyber Developer / AI Explorer
-Alignment : Neutral Future
-Uptime    : 24 / 7 / 365
+MIA_Ether
 
-[CURRENT OBJECTIVES]
-- 🤖 Deciphering Deep Learning & AI Agents
-- 💻 Refactoring software architectures
-- 🔐 Securing the local perimeter (Cyber Security)
 
+$ system-info
+
+Role:
+Developer / Creator
+
+Focus:
+AI + Code + Security
+
+Status:
+Learning Forever
+
+
+$ execute mission
+
+> Create
+> Explore
+> Improve
 ```
-
-> "The best way to predict the future is to program it." ── *MIA_Ether*
 
 ---
 
-# 🌌 Terminal Dashboard
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                   MIA_Ether SYSTEM DIAGNOSTICS               ║
-╠══════════════════════════════════════════════════════════════╣
-║  [✓] AI Engine       : ACTIVE (LLMs Running)                 ║
-║  [✓] Code Quality    : OPTIMIZED (Refactoring...)            ║
-║  [✓] Coffee Capacity : 98% (Fueled by Caffeine)              ║
-║  [!] Curiosity Level : EXCEEDED LIMITS [∞]                   ║
-╚══════════════════════════════════════════════════════════════╝
-
-```
-
-### 🧬 Profile.py
+# 🌸 About Me
 
 ```python
 class MIA_Ether:
+
     def __init__(self):
-        self.identity = {
-            "roles": ["Developer", "AI Explorer", "Digital Creator"],
-            "stack": ["Python", "JavaScript", "TypeScript", "Linux"],
-            "hobbies": ["Cyber Anime", "Electronic Music", "F1 Racing"]
-        }
 
-    def get_mission(self) -> str:
-        return "Transform abstract thoughts into high-performance code."
+        self.skills = [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "AI Development",
+            "Web Technology"
+        ]
 
+        self.interests = [
+            "Cyber Security",
+            "Anime",
+            "EDM",
+            "F1 Racing",
+            "Open Source"
+        ]
+
+
+    def future(self):
+
+        return "Building something meaningful"
 ```
 
 ---
 
 # ⚔️ Technology Arsenal
 
-| Tech | Badges |
-| --- | --- |
-| **Languages** |    |
-| **Environments** |    |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,git,github,vscode,linux,docker,mongodb&theme=dark">
+
+</div>
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux)
 
 ---
 
-# 🚀 Active Subsystems (Projects)
+# 🚀 Current Projects
 
-### 🤖 Subsystem 01: [ AI Laboratory ]
+## 🤖 AI Journey 2026
 
-* **Mission:** Deep dive into Large Language Models, autonomous AI Agents, and workflow automation.
-* *Status:* `Operational (Continual Learning)`
+Exploring:
 
-### 🐍 Subsystem 02: [ Python Core ]
+* Large Language Models
+* AI Agents
+* AI Applications
+* Automation
 
-* **Mission:** Building high-speed automation scripts, security testing environments, and API wrappers.
-* *Status:* `Executing`
+## 🐍 Python Laboratory
 
-### 🌐 Subsystem 03: [ Frontend Universe ]
+Creating:
 
-* **Mission:** Designing interactive, cyber-styled interfaces using TypeScript and modern framework architectures.
-* *Status:* `Loading...`
+* Automation scripts
+* Algorithm experiments
+* Learning projects
 
----
+## 🌐 Web Universe
 
-# 🎧 Cyber Wave & Sound Core
+Learning:
 
-```text
-[NOW PLAYING - NEON PLAYLIST]
-
-  ♫ Porter Robinson - (Virtual Self Project)
-  ♫ Illenium        - (Melodic Cyber Bass)
-  ♫ Avicii          - (Legacy Beats)
-  ♫ Hans Zimmer     - (Cinematic Synthesizers)
-
-[Audio Mode: Cyber / Melodic / Future]
-
-```
-
----
-
-# 🏎️ Speed & Inspiration (F1 Drive)
-
-```text
-[F1 TELEMETRY ONLINE]
-
-  ► Throttle : [██████████████████] 100% (Creativity)
-  ► Engine   : [ V6 Turbo Hybrid ] (Code Base)
-  ► Aero     : [ Drag Reduction  ] (Optimized Workflow)
-
-  "Go beyond the limits, there is no speed limit in Cyberspace."
-
-```
-
----
-
-# 📊 System Telemetry (Stats)
-
-### 📈 Activity Wave
-
-### 🐍 Contribution Grid
-
-### 🏆 Cyber Achievements
-
----
-
-# 🌐 Cyber Matrix Connections
-
----
-
-### Connection Closed Safely. See you in the matrix 🌌
+* Frontend Development
+* Backend Development
+* Modern Web Technology
