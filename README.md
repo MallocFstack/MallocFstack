@@ -1,5 +1,4 @@
 <!-- just img 图片 -->
-<h1>MFs的GitHub页面</h1>
 <!--  skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
